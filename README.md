@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes Sociais
  
 <div> 
   <a href="https://www.linkedin.com/in/lucas-samuel-64846a253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
