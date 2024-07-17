@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<div>
-  <a href="https://github.com/codeMaestroLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeMaestroLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMaestroLucas&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+Welcome to my GitHub account!
     
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,7 +10,7 @@
  
  <br>
  
-  ### Redes Sociais
+  ### Social Medias
  
 <div> 
   <a href="https://www.linkedin.com/in/lucas-samuel-64846a253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
